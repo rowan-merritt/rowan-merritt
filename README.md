@@ -1,6 +1,7 @@
 # Wilson Merritt
 
 Undergraduate student at Southeastern Louisiana University that is pursuing a double major in Mathematics and Computer Science, concentrations being in Scientific Computing and Data Science respectively. 
+
 ---
 ### Languages
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
