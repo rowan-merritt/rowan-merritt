@@ -1,4 +1,4 @@
-# Wilson Merritt
+# Rowan Merritt
 
 Undergraduate student at Southeastern Louisiana University that is pursuing a double major in Mathematics and Computer Science, concentrations being in Scientific Computing and Data Science respectively.
 ---
